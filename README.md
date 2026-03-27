@@ -27,8 +27,8 @@ Desenvolvedor backend focado em Go. Construindo sistemas distribuídos, APIs e f
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [ludensnews](https://github.com/vhgomes/ludensnews) | Coletor de feeds RSS concorrente com deduplicação | Go · MongoDB · Redis · Zap |
-| [go-checker](https://github.com/vhgomes/go-checker) | Monitoramento de sites com dashboard e histórico | Go · Gin · SQLite · Redis · JWT |
-| [job-tracker](https://github.com/vhgomes/job-tracker) | Rastreamento de vagas e candidaturas via API REST | Go · Gin · MongoDB · Docker |
+| [go-checker](https://github.com/vhgomes/go-checker) | Monitoramento de sites com histórico | Go · Gin · SQLite · Redis · JWT |
+| [job-tracker](https://github.com/vhgomes/job-tracker) | Organizador de vagas e candidaturas via API REST | Go · Gin · MongoDB · Docker |
 | [cli-backup](https://github.com/vhgomes/cli-backup) | CLI de backup com categorização automática e compressão ZIP | Go · Cobra · Zap |
 
 ---
